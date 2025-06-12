@@ -6,7 +6,7 @@ This is a basic calculator built with **HTML** and **CSS**, styled to resemble a
 
 ## 🖥️ Demo
 
-![Calculator Screenshot](screenshot.png) <!-- You can add a screenshot named 'screenshot.png' in your repo -->
+![Calculator Screenshot](image.png) <!-- You can add a screenshot named 'screenshot.png' in your repo -->
 
 ---
 
